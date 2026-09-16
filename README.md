@@ -1,0 +1,1 @@
+1.2 rindai f palīdz koda rindai
