@@ -1,1 +1,1 @@
-print("Labkvakar!")
+print("Labdien!")
