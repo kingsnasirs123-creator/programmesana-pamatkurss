@@ -1,2 +1,4 @@
-1.2 rindai f palīdz koda rindai
-tai jābūt konkarētai, lai vēlāk izdarītu nosacījumus precīzi un pareizi
+# Programmēšana - pamatkurss
+Autors:**Bruno Bluzmanis**
+## Kā palaist
+--
