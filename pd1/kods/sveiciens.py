@@ -1,2 +1,2 @@
 print("Bruno Blūzmanis")
-print("Ievads programmēšanā un darba vide")
+print("Ievads programmēšanā un darba vide") 

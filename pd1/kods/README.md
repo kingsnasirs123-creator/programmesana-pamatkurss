@@ -2,3 +2,6 @@
 Autors: **Bruno Bluzmanis**
 ## Palaišana
 ## Ergonomika
+- 
+- 
+- 
