@@ -1,0 +1,2 @@
+print("Labdien!")
+print("Labdien!")
